@@ -1,0 +1,21 @@
+.inline span {
+ display: block; 
+  /* display: none; */
+}
+
+.block {
+  float: left;
+  width: 30%;
+  border: 1px solid black;
+  padding: 2px;
+  margin: 5px;
+  box-sizing: border-box;
+  background-color: lightblue;
+  position: relative;
+}
+
+.block  h2 {
+  text-align: center;
+  padding-top: 250px;
+  position: absolute;
+}

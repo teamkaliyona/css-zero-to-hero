@@ -1,0 +1,24 @@
+.content {
+  border: solid black 1px;
+  width: 600px;
+}
+
+.content h1 {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px grey;
+  font-style: italic;
+}
+
+.content p {
+  text-indent: 1em;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  line-height: 2em;
+  font-family: "Times New Roman", Helvetica, serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 1em;
+}

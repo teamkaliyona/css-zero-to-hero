@@ -1,0 +1,19 @@
+.pgm {
+  list-style-type: circle;
+  background: yellow;
+}
+
+.ofc {
+  list-style-type: square;
+  background: lightgreen;
+}
+
+.emg {
+  list-style-type: lower-roman;
+  background: pink;
+}
+
+.vtu {
+  list-style-type: upper-alpha;
+  background: orange;
+}

@@ -1,0 +1,20 @@
+.title {
+  color: darkgreen;
+  background: #ffb3b3;
+}
+
+.subtitle {
+  color: #cc0099;
+ /* border-style: solid;
+  border-color: black;*/
+  border: 2px dotted black;
+}
+
+.para {
+  color: rgb(153, 51, 51);
+}
+
+body {
+   background: #b3ffff; 
+ /* background: url("https://static.toiimg.com/thumb/msid-51611253,width-550,height-433/51611253.jpg") */
+}

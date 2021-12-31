@@ -1,0 +1,25 @@
+.myForm {
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.myForm label {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.myForm input[type="text"], select {
+  width: 95%;
+  border: 2px solid black;
+  background-color: lightblue;
+  padding: 10px;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  border: 1px black;
+  padding: 10px 15px;
+  margin-left: 50%;
+  margin-top: 15px;
+}
